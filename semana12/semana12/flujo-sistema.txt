@@ -1,0 +1,14 @@
+1. Un ciudadano registra una causa en la plataforma.
+
+2. El sistema almacena la información en la base de datos.
+
+3. Otros ciudadanos pueden apoyar la causa registrada.
+
+4. El sistema cuenta automáticamente el número de apoyos recibidos.
+
+5. El sistema genera un documento PDF con la petición formal.
+
+6. El administrador puede consultar las causas registradas.
+
+7. El sistema envía una notificación automática cuando se registra una nueva petición.
+

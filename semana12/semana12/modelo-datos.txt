@@ -1,0 +1,17 @@
+Entidad: Causa
+
+* id: identifica cada causa registrada.
+* titulo: nombre de la petición.
+* descripcion: explica el propósito de la causa.
+* fecha: fecha de creación.
+
+Esta entidad permite almacenar la información de las peticiones realizadas por la comunidad.
+
+Entidad: Apoyo
+
+* id: identifica cada apoyo registrado.
+* causa_id: relaciona el apoyo con una causa.
+* nombre: nombre del ciudadano que apoya la petición.
+* fecha: fecha en la que fue registrado el apoyo.
+
+Esta entidad permite conocer cuántos apoyos tiene cada causa registrada.
